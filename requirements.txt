@@ -1,0 +1,38 @@
+# Flask y extensiones
+Flask
+Flask-RESTful
+Flask-SQLAlchemy
+Flask-Migrate
+Flask-JWT-Extended
+Flask-CORS
+Flask-Mail
+
+# Base de datos
+PyMySQL
+SQLAlchemy
+cryptography
+
+# Celery y Redis
+celery
+redis
+
+# Validación y serialización
+marshmallow
+marshmallow-sqlalchemy
+
+# Utilidades
+python-dotenv
+bcrypt
+Pillow
+reportlab
+pandas
+openpyxl
+
+# Testing
+pytest
+pytest-flask
+
+# Desarrollo
+python-decouple
+
+cryptography
